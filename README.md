@@ -30,3 +30,8 @@ KinderKare is an easy-to-use web-based childcare management system that enhances
     * Java Database Connectivity (JDBC)
     * JFreeChart
     * Java Swing
+ 
+  ![image](https://github.com/user-attachments/assets/a0b61559-adee-4587-b289-b845190b567e)
+  ![image](https://github.com/user-attachments/assets/d123c04e-e90a-4e66-bc46-d517e0552c60)
+
+
